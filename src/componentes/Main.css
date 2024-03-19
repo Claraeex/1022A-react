@@ -1,0 +1,31 @@
+main{
+    display:flex;
+    min-height: 20rem;
+    border: 1px solid black;
+    padding: 5vw;
+}
+.estudante-box{
+ border: 0.1rem solid black;
+ padding: 1.5rem;
+ flex-direction: column;
+ align-items: center;
+
+}.informacoes{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+}
+.estudante-foto{
+    border-radius: 50%;
+}
+.link-git{
+background-color: rgb(54, 148, 148);
+color: black;
+border-radius: 0.3rem;
+padding: 1rem 1.5rem;
+text-decoration:none;
+font-weight: 500;
+
+
+
+}
